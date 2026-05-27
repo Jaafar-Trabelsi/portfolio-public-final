@@ -116,15 +116,7 @@ The palette switch lives in the navbar (the 🎨 icon). Every section, accent, g
 
 ```
 .
-├── index.html              # Page markup (all sections)
-├── style.css               # All styles + both color themes
-├── script.js               # Preloader, typewriter, theme toggle, form, scroll animations
-├── me.jpg                  # Hero profile photo (web-optimized)
-├── favicon.svg             # JT favicon (scales crisply)
-├── favicon-32.png          # PNG favicon fallback
-├── apple-touch-icon.png    # Home-screen icon (iOS / Android)
 ├── CV-Trabelsi-Jaafar.pdf  # Downloadable resume
-├── img/                    # Project thumbnails
 └── Readme-img/             # Screenshots used in this README
 ```
 
@@ -139,7 +131,7 @@ The palette switch lives in the navbar (the 🎨 icon). Every section, accent, g
 
 <div align="center">
 
-© 2025 Jaafar Trabelsi. All rights reserved.
+© 2026 Jaafar Trabelsi. All rights reserved.
 
 <i>Open to internships, collaborative projects, and cybersecurity missions.</i>
 
